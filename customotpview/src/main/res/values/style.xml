@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="NymOtpView">
+        <attr name="fieldRadius" format="dimension" />
+        <attr name="fieldLength" format="integer" />
+        <attr name="dashPosition" format="integer" />
+        <attr name="textSize" format="dimension" />
+        <attr name="textColor" format="color" />
+        <attr name="codeLength" format="integer" />
+        <attr name="textBackgroundColor" format="color" />
+        <attr name="fieldStrokeColor" format="color" />
+        <attr name="fieldStrokeWidth" format="dimension" />
+    </declare-styleable>
+
+
+    <declare-styleable name="NymOtpField">
+        <attr name="nymOtpNoOfFields" format="integer" />
+    </declare-styleable>
+
+
+</resources>

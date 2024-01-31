@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="dsStyleButton" format="reference" />
+    <attr name="dsStyleIconButton" format="reference" />
+    <attr name="dsStyleImageView" format="reference" />
+    <attr name="dsStyleEditText" format="reference" />
+    <attr name="dsStyleTextView" format="reference" />
+    <attr name="dsStyleSpinner" format="reference" />
+    <attr name="dsStyleAvatarMedium" format="reference" />
+    <attr name="dsStyleSeparatorLine" format="reference" />
+    <attr name="dsCornerRadius" format="dimension" />
+    <attr name="dsStyleChipGroup" format="reference" />
+    <attr name="dsStyleChip" format="reference" />
+
+
+</resources>

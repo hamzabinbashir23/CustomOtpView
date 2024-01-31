@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EditText xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/_44sdp"
+    android:layout_height="@dimen/_48sdp"
+    android:layout_marginHorizontal="4dp"
+    android:autofillHints="smsOTPCode"
+    android:background="@android:color/transparent"
+    android:cursorVisible="true"
+    android:focusable="true"
+    android:gravity="center"
+    android:importantForAutofill="yes"
+    android:inputType="number"
+    android:textColor="@color/ds_on_secondary"
+    android:textSize="24sp"
+    android:textStyle="bold"
+    android:maxLength="1"
+    tools:ignore="LabelFor" />
