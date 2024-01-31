@@ -17,7 +17,7 @@ dependencyResolutionManagement {
 
 Add this dependency in your build.gradle(Module):
 ```
- implementation 'com.github.hamzabinbashir23:CustomOtpView'
+ implementation 'com.github.hamzabinbashir23:CustomOtpView:1.0'
 ```
 
 ### **Attributes**
