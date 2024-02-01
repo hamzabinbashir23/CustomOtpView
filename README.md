@@ -84,5 +84,5 @@ This will change the text color of the active OTP field according to your custom
 
 # **Result:**
 
-![image_2024-01-29_172823058](https://github.com/hamzabinbashir23/CustomOtp/assets/60214407/244b0e92-0e55-4137-8c52-8c216e877e14)
-![image_2024-01-29_172932284](https://github.com/hamzabinbashir23/CustomOtp/assets/60214407/102e0156-3f8b-402f-97c4-0198030a8fe2)
+![Screenshot 2024-01-29 172805](https://github.com/hamzabinbashir23/CustomOtpView/assets/60214407/68f838c3-19f5-4184-a8cf-219f97db80b3)
+![Screenshot 2024-01-29 172915](https://github.com/hamzabinbashir23/CustomOtpView/assets/60214407/8caf3f29-9823-4ee8-8726-1644db6de205)
