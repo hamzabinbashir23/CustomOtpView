@@ -66,6 +66,7 @@ To listen to changes in the OTP input fields, implement the onChange interface:
 ```
 binding.onChange {
 //your work here
+Toast.makeText(context, it, Toast.LENGTH_LONG).show()
 }
 ```
 **Customizing Active Field Text Color**
