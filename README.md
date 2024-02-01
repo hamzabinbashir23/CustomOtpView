@@ -45,6 +45,7 @@ The library offers the following attributes for customization:
 ```
 
 **Setting Number of OTP Fields**
+
 To specify the number of OTP fields, use the setOtpFields() method:
 
 ```
@@ -53,6 +54,7 @@ binding.setOtpFields(4)
 This will create 6 OTP input fields.
 
 **Setting Dash Between Fields**
+
 To insert a dash between specific OTP fields, utilize the setDashAtPosition() method:
 
 ```
@@ -61,6 +63,7 @@ binding.setDashAtPosition(2)
 This will add a dash between the third and fourth OTP input fields.
 
 **Listening to Changes**
+
 To listen to changes in the OTP input fields, implement the onChange interface:
 
 ```
@@ -70,6 +73,7 @@ Toast.makeText(context, it, Toast.LENGTH_LONG).show()
 }
 ```
 **Customizing Active Field Text Color**
+
 To customize the text color of the active OTP field, call the setActiveFieldBackground() method inside the onChange listener:
 
 ```
